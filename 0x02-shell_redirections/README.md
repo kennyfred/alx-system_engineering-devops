@@ -1,1 +1,1 @@
-display content for more than one file
+Print 10 line of a file
